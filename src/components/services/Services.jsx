@@ -10,7 +10,7 @@ const data = [
         image: Image1,
         title: "Programming Languages ",
         description:
-            "Python, Java, MySql, HTML, CSS, JavaScript.",
+            "Python, Java, MySql.",
     },
     {
         id: 2,
@@ -19,13 +19,7 @@ const data = [
         description:
             "AWS, Git, Linux, Maven, JUnit, Jenkins, Docker, Kubernetes, Ansible, Terraform, Trivy, SonarQube, Grafana, Prometheus, ArgoCD, MangoDB Atlas",
     },
-    {
-        id: 3,
-        image: Image3,
-        title: "Soft-Skills",
-        description:
-            "Written and verbal communication skills, empathic listener and persuasive speaker, disciplined,teamwork, creative thinking, leadership, self-motivated.",
-    },
+    
 ];
 
 const Services = () => {

@@ -8,8 +8,8 @@ const AboutBox = () => {
                 <RiFireLine className='about__icon' />
 
                 <div>
-                    <h3 className="about__title">1</h3>
-                    <span className="about__subtitle">Month of Experience</span>
+                    <h3 className="about__title">1.8+</h3>
+                    <span className="about__subtitle">Years of Experience</span>
                 </div>
             </div>
 
